@@ -6,11 +6,11 @@ import { Link } from "react-router-dom"
     return (
       <div className="landing">
         <div className="mask">
-        <img className="background-img" src="/img/Group 5.png" alt="img"/>
+        <img className="background-img" src="/img/tokenstreet-vbPk2tB2HrU-unsplash.jpg" alt="img"/>
         </div>
         <div className="content">
-            <p>Hi,I'm Aman krishan.</p>
-            <h1>React developer</h1>
+            <p>Hi,I'm Yakshesh Gupta.</p>
+            <h1>Contract developer and React developer. </h1>
             <div>
                 <Link to="/project" className="btnn">Project</Link>
             </div>

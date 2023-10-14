@@ -37,7 +37,7 @@ const Navbar =()=> {
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="https://twitter.com/krishan_aman14">
                 <AiFillTwitterSquare/>
               </a>
             </li>
